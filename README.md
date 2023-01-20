@@ -1,29 +1,3 @@
-<br />
-<div align="center">
-  <img src="docs/top.png" alt="Logo" width="100" height="100" style="borderRadius: 20px">
-
-  <h3 align="center">
-    Sismo Protocol Contracts
-  </h3>
-
-  <p align="center">
-    Made by <a href="https://www.sismo.io/" target="_blank">Sismo</a>
-  </p>
-  
-  <p align="center">
-    <a href="https://discord.gg/sismo" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-    </a>
-    <a href="https://twitter.com/sismo_eth" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-    </a>
-  </p>
-  <a href="https://www.sismo.io/" target="_blank">
-    
-  </a>
-</div>
-<br/>
-This repository contains the smart contracts of the Sismo Protocol.
 
 There are three core contracts:
 
@@ -102,10 +76,6 @@ The `/attesters/hydra-s1/HydraS1SimpleAttester.sol` is a good example of an atte
 A [guide](https://attesters.docs.sismo.io) is offered in our documentation.
 
 Feel free open a PR with your new attester in `/attester`!
-
-## License
-
-Distributed under the MIT License.
 
 ## Contribute
 
